@@ -50,3 +50,6 @@ rsconnect/
 
 # Mac files
 .DS_Store
+
+# My notes
+NOTES.md
